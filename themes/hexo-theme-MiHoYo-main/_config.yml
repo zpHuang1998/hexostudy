@@ -1,0 +1,53 @@
+# html lang
+language: en
+
+menuname: 数学笔记
+
+# 你的昵称 | Your Name
+author: HZP
+
+# main menu navigation
+menu:
+ 
+  
+  GitHub🧨: https://github.com/zphuang1998
+
+topmenu:
+  首页: /
+  
+
+## 网站描述
+description: 学习笔记
+
+## 网站关键词：用英文逗号分割
+keywords: 学习笔记
+
+## blog头像
+img_src: \pic\avatar.jpg
+
+# 网站标题 | Title
+logo_title: HZP
+
+#标语 | Your Slogan
+words: 数学笔记
+
+# 滑动顶部框
+# topmenu:
+#  首页  index: /
+#  关于  about: /about
+
+# stylesheets loaded in the <head>
+stylesheets:
+  - /css/MiHoYo.css
+
+# scripts loaded in the end of the body
+scripts:
+  - /js/MiHoYo.js
+
+# 评论系统 | Comments
+## 做了域名限制，请改成自己的 KEY
+## 若关闭valine 设置enable为false
+valine:
+  enable: false
+  appId:
+  appKey:
